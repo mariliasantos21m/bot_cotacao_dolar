@@ -1,0 +1,5 @@
+# IGNORE KEYS
+.env
+
+# IGNORE FILES
+*.txt
