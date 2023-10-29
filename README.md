@@ -1,4 +1,4 @@
-## BOT TELEGRAM COTACAO DOLAR
+## BOT TELEGRAM COTACÃO DOLAR
 
 * [Linguagem Utilizada](#linguagem)
 * [Descrição](#descricao)
